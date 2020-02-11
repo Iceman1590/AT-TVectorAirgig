@@ -1,0 +1,21 @@
+Common CMD commands needed:
+
+
+cd - change directory
+dir - directory list
+python [file name.py] - run program in python
+activate OpenCV - activates OpenCV environment
+python - activates python environment
+
+
+Common Directories:
+End of Year Python Project: C:\Users\samsm\Documents\Python\End of Year Project
+Vector Project: C:\Users\samsm\Documents\Python\Vector\anki_vector_sdk_examples_0.6.0\tutorials
+				C:\Users\samsm\Documents\Python\Vector\anki_vector_sdk_examples_0.6.0\Project Files
+				C:\Users\samsm\Documents\Python\Vector\anki_vector_sdk_examples_0.6.0\Project Files\Basic Navigation
+Vector Apps: C:\Users\samsm\Documents\Python\Vector\anki_vector_sdk_examples_0.6.0\apps\remote_control
+
+
+Vector A: 0050836c
+Vector B: 00505e75
+Vector C: 00505ea5
